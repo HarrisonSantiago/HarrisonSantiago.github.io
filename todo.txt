@@ -1,5 +1,5 @@
 Format home page
-Link CV 
+Connect about me
 Upload cool photos
 Start uploading commonly needed math/ml stuff 
 Blog?
